@@ -1,12 +1,23 @@
 {
+
   "version": 1,
+
   "ads": [
+
     {
+
       "id": "ad-001",
-      "content": "🔥 点击加群获取免费牌局分析",
-      "link": "https://你的推广链接"
+
+      "content": "📢 广告位招租",
+
+      "link": "https://example.com"
+
     }
+
   ],
+
   "refresh_interval_seconds": 120,
+
   "carousel_interval_seconds": 8
+
 }
