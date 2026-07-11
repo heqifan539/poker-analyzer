@@ -1,6 +1,6 @@
 {
 
-  "version": 1,
+  "version": 2,
 
   "ads": [
 
@@ -8,9 +8,11 @@
 
       "id": "ad-001",
 
-      "content": "📢 广告位招租",
+      "type": "image",
 
-      "link": "https://example.com"
+      "image": "https://raw.githubusercontent.com/heqifan539/poker-analyzer/refs/heads/main/ScreenShot_2026-07-12_021526_784.png",
+
+      "link": https://example.com
 
     }
 
