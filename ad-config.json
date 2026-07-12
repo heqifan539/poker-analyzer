@@ -1,25 +1,12 @@
 {
-
   "version": 2,
-
   "ads": [
-
     {
-
       "id": "ad-001",
-
       "type": "image",
-
-      "image": "https://raw.githubusercontent.com/heqifan539/poker-analyzer/refs/heads/main/ScreenShot_2026-07-12_021526_784.png",
-
-      "link": "https://example.com"
-
+      "image": "https://raw.githubusercontent.com/heqifan539/poker-analyzer/refs/heads/main/ScreenShot_2026-07-12_021526_784.png"
     }
-
   ],
-
   "refresh_interval_seconds": 30,
-
   "carousel_interval_seconds": 8
-
 }
